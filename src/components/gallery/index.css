@@ -1,0 +1,12 @@
+.article{
+    border: 2px solid red;
+    border-radius: 15px;
+    margin: 30px 0 0 0;
+    padding: 20px;
+    width: 600px;
+}
+.article img{
+   /* width: 100%; */
+   border-radius: 15px;
+   width: 550px;
+}
